@@ -16,4 +16,4 @@ Let's deploy, monitor, and innovate together!
 - 🔗 [LinkedIn](www.linkedin.com/in/
 aniket-pawar-a789072a4
 )
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+
