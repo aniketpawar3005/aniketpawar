@@ -13,5 +13,7 @@ Let's deploy, monitor, and innovate together!
 
 ### 📬 Contact
 - 📧 [pawaraniket696@gmail.com](mailto:pawaraniket696@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-pawar-b4b9082a4)
+- 🔗 [LinkedIn](www.linkedin.com/in/
+aniket-pawar-a789072a4
+)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
