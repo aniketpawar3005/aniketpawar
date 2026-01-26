@@ -6,10 +6,10 @@ Let's deploy, monitor, and innovate together!
 
 | **Domain**                     | **Skills/Tools**                                               |
 |--------------------------------|---------------------------------------------------------------|
-| **Cloud & Infrastructure**      | AWS (EC2, S3, VPC, IAM, RDS, CloudWatch), Linux/Ubuntu       |
-| **Web & Server Setup**          | Nginx, Apache, SSH, Firewall Rules                            |
-| **Database**                    | MySQL, Amazon RDS                                             |
-| **Version Control & Collaboration** | Git, GitHub                                              |
+| **Cloud & Infrastructure**      | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white), Linux/Ubuntu |
+| **Web & Server Setup**          | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white), ![Apache](https://img.shields.io/badge/Apache-CA0B00?style=for-the-badge&logo=apache&logoColor=white), SSH, Firewall Rules |
+| **Database**                    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), Amazon RDS |
+| **Version Control**              | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 
 
@@ -19,6 +19,7 @@ Let's deploy, monitor, and innovate together!
 - 🔗 LinkedIn: [aniket-pawar](https://www.linkedin.com/in/aniket-pawar-a789072a4)
 
 ---
+
 
 
 
