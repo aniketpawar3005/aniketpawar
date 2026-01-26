@@ -12,12 +12,13 @@ Let's deploy, monitor, and innovate together!
 | **Version Control & Collaboration** | Git, GitHub                                              |
 
 
-### 📬 Contact
-- 📧 [pawaraniket696@gmail.com](mailto:pawaraniket696@gmail.com)  
-- 🔗 [LinkedIn](www.linkedin.com/in/
-aniket-pawar-a789072a4
-)
 
+## 📬 Contact
+
+- 📧 Email: [pawaraniket696@gmail.com](mailto:pawaraniket696@gmail.com)  
+- 🔗 LinkedIn: [aniket-pawar](https://www.linkedin.com/in/aniket-pawar-a789072a4)
+
+---
 
 
 
